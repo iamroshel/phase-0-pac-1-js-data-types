@@ -365,3 +365,4 @@ types: numbers, strings, booleans, symbols, objects, `null`, and `undefined`.
 [wat]: https://www.destroyallsoftware.com/talks/wat
 [whole book]: https://plato.stanford.edu/entries/aristotle-categories/
 [differs]: https://www.diffen.com/difference/Aristotle_vs_Plato
+Roshel
